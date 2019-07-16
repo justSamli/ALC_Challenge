@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyALCApp</string>
+    <string name="gh_num">+233206026129</string>
+    <string name="track_name">Android Development</string>
+    <string name="my_email">samira3.ali@gmail.com</string>
+    <string name="my_name">Samira Ali</string>
+    <string name="country_tag">Country:</string>
+    <string name="track_tag">Track:</string>
+    <string name="phone_number_tag">Phone Number:</string>
+    <string name="ghana">Ghana</string>
+    <string name="my_photo">my_photo</string>
+    <string name="about_alc">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="alc2019">alclogo2019</string>
+    <string name="profile_page">Profile</string>
+    <string name="slack_username">Slack Username:</string>
+    <string name="samli">\@SamLi</string>
+</resources>
